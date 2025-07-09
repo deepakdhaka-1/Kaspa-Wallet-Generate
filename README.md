@@ -19,7 +19,7 @@ A simple yet powerful command-line tool to generate one or many **Kaspa-compatib
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/kaspa-wallet-cli.git
+git clone https://github.com/deepakdhaka-1/kaspa-wallet-cli.git
 cd kaspa-wallet-cli
 pip install -r requirements.txt
 ````
